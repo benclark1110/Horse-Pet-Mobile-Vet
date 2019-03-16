@@ -1,5 +1,7 @@
 .container{
     padding: 0;
+    max-width: 100%;
+    background-color: lavender;
 }
 
 img{
@@ -11,4 +13,12 @@ p{
 
 #headerText p{
     text-align: center;
+}
+
+#bodyimages{
+    padding: 0px;
+}
+
+.navbar{
+    background-color: white;
 }
